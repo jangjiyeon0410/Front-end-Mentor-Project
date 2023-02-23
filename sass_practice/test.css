@@ -1,0 +1,120 @@
+body, p {
+  margin: 0;
+}
+
+div {
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.test {
+  background-color: tomato;
+  font-size: 18px;
+}
+
+.main_bg h4 {
+  font-size: 16px;
+}
+
+.main_bg button {
+  color: red;
+}
+
+.main_bg {
+  width: 100px;
+}
+.main_bg h4 {
+  font-size: 16px;
+}
+.main_bg button {
+  color: red;
+}
+
+.btn_blue, .btn_red, .btn_green {
+  width: 100px;
+  height: 100px;
+  padding: 20px;
+}
+
+.btn_green {
+  color: green;
+}
+
+.btn_red {
+  color: red;
+}
+
+.btn_blue {
+  color: blue;
+}
+
+.third3, .second2, .first1 {
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+}
+
+.first1 {
+  background-color: orange;
+}
+
+.second2 {
+  background-color: green;
+}
+
+.third3 {
+  background-color: blue;
+}
+
+h2 {
+  font-size: 30px;
+  letter-spacing: -1px;
+}
+
+h3 {
+  font-size: 50px;
+  line-height: -1px;
+}
+
+h4 {
+  font-size: 10px;
+  letter-spacing: -1px;
+  color: red;
+}
+
+.list {
+  width: 300px;
+}
+.list li {
+  border: 1px solid #eee;
+  padding: 5px;
+}
+.list .active {
+  color: #fff;
+  background-color: blueviolet;
+}
+
+.alert {
+  width: 500px;
+}
+.alert li {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.alert .first {
+  background-color: rgb(98, 170, 98);
+  color: green;
+}
+.alert .second {
+  background-color: rgb(180, 180, 255);
+  color: blue;
+}
+.alert .third {
+  background-color: rgb(255, 255, 202);
+  color: rgb(181, 181, 46);
+}/*# sourceMappingURL=test.css.map */
